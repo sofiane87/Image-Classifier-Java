@@ -12,14 +12,15 @@ This sub-module handles the images **preprocessing**, it takes images as inputs 
 
 this folder contains the follower *java files* : 
 
-*  
-*  
-* 
+*  **HOG** : Realize the preprocessing
+*  **HOGPARAM** : stores and returns the parameters of the trees
+*  **Tree** : Builds and store a tree
 
 
 ## Random Forests : 
 
 As the name suggests it, this sub-module builds and trains the Random Forest. 
+
 this folder contains the follower *java files* : 
 
 * 
