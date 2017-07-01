@@ -11,8 +11,9 @@ The package is composed of two sub_modules :
 This sub-module handles the images **preprocessing**, it takes images as inputs and returns the associated **Histogram of Oriented Gradients**
 
 this folder contains the follower *java files* : 
-* 
-* 
+
+*  
+*  
 * 
 
 
