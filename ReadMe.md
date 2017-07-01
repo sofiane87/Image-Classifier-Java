@@ -23,6 +23,6 @@ As the name suggests it, this sub-module builds and trains the Random Forest.
 
 this folder contains the follower *java files* : 
 
-* 
-* 
-*
+* **RandomForest** : Builds and Store the random Forest
+* **RandomForestLearner** : class that trains and update the Random Forest 
+* **RF** : root class for *RandomForest* handles simple methods to leave only machine learning related methods to the *RandomForest* class.
